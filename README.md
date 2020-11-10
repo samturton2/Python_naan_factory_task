@@ -27,3 +27,10 @@ this helps with:
 
 - 3
   - As a user, I can user the run factory with water and flour and get naan.
+  
+### Task
+- Create a naan_factory file
+- create a naan factory class that will hold specified methods
+```python
+class NaanFactory:
+```
